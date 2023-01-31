@@ -1,0 +1,5 @@
+[core]
+    autostage = true
+    remote = d:/dsti/mlops
+['remote "d:/dsti/mlops"']
+    url = C:/Program Files/Git/temp/dvc-storage
